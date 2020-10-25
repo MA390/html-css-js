@@ -1,4 +1,4 @@
-#ROCK PAPER SCISSORS GAME
+ROCK PAPER SCISSORS GAME
 
 
 *To run the project use the link below https://ma390.github.io/html-css-js/
